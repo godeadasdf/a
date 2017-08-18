@@ -97,7 +97,7 @@ export default class Index extends Component {
                             <View style={{marginTop:10,height:40,backgroundColor:'orange',justifyContent:'center'}}>
                                 <Button title='Confirm And Pay' color='orange' onPress={() => {
                                 }} style={{padding:10}}/>
-                            </View>
+                            </View>ssdsdsdsdsd
 
                         </View>
                     </View>
